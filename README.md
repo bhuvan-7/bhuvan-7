@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-7&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-7" /> </p>
 
+<p>
+Hey there! I’m Bhuvan , a passionate engineer dedicated to exploring the endless possibilities of technology. With a knack for coding in Java, Python, and C++, I love creating innovative solutions and delving into complex problems. My interests span from AI and machine learning to IoT and cloud computing. I thrive on challenges and am always eager to learn something new. </p>
+
+
 - 🔭 I’m currently working on **Time series forecasting**
 
 - 🌱 I’m currently learning **AI & ML**
